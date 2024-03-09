@@ -413,13 +413,14 @@ div.selected {
     font-size: 11px;
 }
 .video_play_bg {
-    background: rgba(0, 0, 0, .4);
+    background: rgba(0, 192, 128, .64);
     width: 40px;
     height: 40px;
     line-height: 0;
     position: absolute;
     z-index: 2;
     border-radius: 50%;
+	border-style: solid;
     overflow: hidden;
     margin: -20px auto 0 -20px;
     top: 50%;
