@@ -54,7 +54,8 @@ pre {
 .page_wrap {
     color: #000000;
 	background-color: #;
-	font: 20px/10px 'Open Sans',"Arial","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	font: 20px/22px 'Open Sans',"Arial","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	text-align: justify;
 }
 .page_wrap a {
     color: #004477;
