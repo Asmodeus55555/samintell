@@ -3,7 +3,12 @@ body {
 	content-visibility: auto;
 }
 strong {
-    font-weight: 600;
+    font-weight: 600;	
+}
+em {
+    font-weight: 500;	
+	font: 22px/22px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	font-style: italic;
 }
 code, kbd, pre, samp {
     font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
