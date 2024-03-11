@@ -3,7 +3,19 @@ body {
 	content-visibility: auto;
 }
 strong {
-    font-weight: 600;	
+    font-weight: 600;
+	
+}	
+st {
+	display: table;
+	margin-top: -20px;
+	margin-left: -3px;
+	margin-bottom: 20px;
+	background-color: #ffffff20;
+	border: 1px dashed #cccccc;
+    box-shadow: 2px 2px 4px #00000020;
+	padding: 22px;	
+	
 }
 em {
     font-weight: 500;	
