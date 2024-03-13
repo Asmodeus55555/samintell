@@ -113,7 +113,7 @@ pre {
     position: none;
     z-index: 10;
     background-color: #;
-	font: 25px/27px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	font: 25px/20px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
     width: 100%;
     border-bottom: 0px solid #;
 	text-shadow:        
@@ -163,7 +163,7 @@ pre {
 .page_body {
     padding-top: 0px;
 	padding-left: 3px;
-    width: 98%;
+    width: 96%;
     margin: 0 auto;
 }
 .page_about {
