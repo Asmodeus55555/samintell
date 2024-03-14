@@ -53,7 +53,7 @@ video {
 }
 em {
     font-weight: 0px;	
-	font: 16px/16px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	font: 18px/18px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
 	font-style: italic;
 	
 }	
@@ -113,7 +113,7 @@ pre {
 .page_wrap {
     color: #000000;
 	background-color: #fff8f050;
-	font: 16px/16px 'Open Sans',"Arial","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	font: 18px/18px 'Open Sans',"Arial","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
 	text-align: justify;
 }
 .page_wrap a {
