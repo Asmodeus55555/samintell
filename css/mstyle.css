@@ -14,13 +14,13 @@ baton {
 	margin-bottom: 15px;
 	color: #000000;    
 	background-color: #ffffff25;
-	border: 2px groove #00000025;
+	border: 2px groove #00000010;
 	border-radius: 250px;
     box-shadow: 0px 5px 5px #00000080;
-	padding-top: 8px;
-	padding-left: 15px;
-	padding-right: 15px;
-	padding-bottom: 15px;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 5px;
 	white-space: nowrap;
 	
 }	
@@ -29,12 +29,12 @@ st {
 	margin-top: -20px;
 	margin-left: -3px;
 	margin-bottom: 20px;
-	background-color: #ffffff50;
+	background-color: #fffdf850;
 	border: 1px groove #00000025;
     box-shadow: 0px 5px 10px #00000080;
-	padding-top: 16px;
-	padding-left: 16px;
-	padding-right: 16px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
 	padding-bottom: 32px;
 
 }
@@ -53,7 +53,7 @@ video {
 }
 em {
     font-weight: 0px;	
-	font: 20px/22px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	font: 16px/16px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
 	font-style: italic;
 	
 }	
@@ -112,8 +112,8 @@ pre {
 
 .page_wrap {
     color: #000000;
-	background-color: #;
-	font: 25px/25px 'Open Sans',"Arial","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	background-color: #fff8f050;
+	font: 14px/14px 'Open Sans',"Arial","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
 	text-align: justify;
 }
 .page_wrap a {
@@ -131,7 +131,7 @@ pre {
     position: none;
     z-index: 10;
     background-color: #;
-	font: 28px/28px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	font: 16px/16px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
     width: 100%;
     border-bottom: 0px solid #;
 	text-shadow:        
@@ -151,13 +151,13 @@ pre {
 .bold {
     color: #000000;
     font-weight: 500;
-	font: 20x/22px 'Open Sans',"Tahoma","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	font: 12px/12px 'Open Sans',"Tahoma","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
 }
 .details {
     padding-left: 10px;
 	margin-right: 10px;
 	color: #604840;
-	font: 23px/20px 'Open Sans',"Tahoma","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	font: 12px/12px 'Open Sans',"Tahoma","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
 	text-shadow:
         -1.50px -1.50px 0 #eeeeee,
         0.00px 0.00px 0 #bbbbbb,
