@@ -24,14 +24,16 @@ baton {
 	white-space: nowrap;
 	font: 22px/22px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
 	text-shadow:        
-        		0px 0px 0px #ffff00ff;
-
+        		-0.5px 0.5px 0px #ffffffff;
+				
 }
 baton:hover {
 	border: 2px groove #55555595;
 	border-radius: 250px;
     box-shadow: 0px 2px 2px #00000080;
-		
+	text-shadow:        
+        		1px -1px 0px #ffffffff;
+	            
 }	
 st {
 	display: table;
