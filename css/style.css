@@ -130,9 +130,7 @@ pre {
     z-index: 10;
 	margin-left: auto;
 	margin-right: auto;
-    background-color: #;
-	background: url(../logo/fon1.png);
-	background-size: contain;
+    background-color: #ffffff50;
 	border: 2px groove #00000055;
 	border-radius: 8px;
     box-shadow: 0px 5px 5px #00000080;
