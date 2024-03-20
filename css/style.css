@@ -48,6 +48,28 @@ st {
 	padding-right: 22px;
 	padding-bottom: 32px;
 	
+}	
+zgi {
+	display: inline-block;
+	clear: both;
+	max-width: 12%;
+	vertical-align: top;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	
+}	
+zgt {
+	display: inline-block;
+	clear: both;
+	max-width: 74%;
+	vertical-align: top;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	
 }
 em {
     font-weight: 500;	
