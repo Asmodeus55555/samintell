@@ -12,7 +12,9 @@ baton {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 15px;
-	color: #000000; 
+	color: #000000;
+	background-image: url("../logo/fon-b.png");
+	background-size: contain;	
 	background-color: #fff8f032;
 	border: 2px groove #00000055;
 	border-radius: 250px;
@@ -154,25 +156,28 @@ pre {
 }
 .page_header {
     margin-top: 2px;
+	margin-bottom: -25px;
 	position: none;
     z-index: 10;
 	margin-left: auto;
 	margin-right: auto;
-    background-color: #ffffff50;
-	border: 2px groove #00000055;
-	border-radius: 8px;
-    box-shadow: 0px 5px 5px #00000080;
+    !background-image: url("../logo/fon1.png");
+	!background-size: contain;
+	!background-color: #ffffff50;
+	!border: 2px groove #00000055;
+	!border-radius: 8px;
+    !box-shadow: 0px 5px 5px #00000080;
 	padding-bottom: 0px;
 	padding-top: 0px;
 	padding-left: 0px;
-	padding-right: 3px;
+	padding-right: 0px;
 	font: 18px/18px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
     color: #;
 	width: 96%;
     border-bottom: 0px solid #;
-	text-shadow:        
-        -2px -2px 2px #eeeeee,
-		3px 3px 3px #888888;      
+	text-shadow:
+        -2px -2px 2px #ffffff,
+		3px 3px 4px #00000080;     
 }
 .page_header .content {
     width: 100%;
@@ -217,7 +222,7 @@ pre {
 .page_body {
     padding-top: 0px;
 	padding-left: 3px;
-    width: 96%;
+    width: 98%;
     margin: 0 auto;
 }
 .page_about {
