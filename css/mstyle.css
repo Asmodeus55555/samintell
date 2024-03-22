@@ -50,6 +50,33 @@ st {
 	padding-right: 5px;
 	padding-bottom: 25px;
 
+}	
+zgi {
+	display: inline-block;
+	clear: both;
+	max-width: 15%;
+	vertical-align: middle;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	
+}	
+zgi:hover {
+	border-bottom: 10px dashed #ff880025;
+	margin-top: -10px;
+	
+}	
+zgt {
+	display: inline-block;
+	clear: both;
+	max-width: 60%;
+	vertical-align: middle;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+
 }
 hidden {
     display: none;	
@@ -64,7 +91,7 @@ img {
         }
     .normal img
         {
-    min-width: 0%;
+    min-width: 100%;
 
      }
 .mob {
@@ -155,25 +182,25 @@ pre {
 
 }
 .page_header {
-    margin-top: 2px;
-	margin-bottom: -25px;
+    margin: 0px;
+	margin-bottom: -5px;
 	position: none;
     z-index: 10;
 	margin-left: auto;
 	margin-right: auto;
-    !background-image: url("../logo/fon1.png");
-	!background-size: contain;
-	!background-color: #ffffff50;
-	!border: 2px groove #00000055;
-	!border-radius: 8px;
-    !box-shadow: 0px 5px 5px #00000080;
+    background-image: url("../logo/fon1.png");
+	background-size: contain;
+	background-color: #ffffff50;
+	border: 2px groove #00000055;
+	border-radius: 8px;
+    box-shadow: 0px 5px 5px #00000080;
 	padding-bottom: 0px;
-	padding-top: 0px;
+	padding-top: 5px;
 	padding-left: 0px;
 	padding-right: 0px;
 	font: 18px/18px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
     color: #;
-	width: 96%;
+	width: 98%;
     border-bottom: 0px solid #;
 	text-shadow:
         -2px -2px 2px #ffffff,

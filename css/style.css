@@ -24,7 +24,7 @@ baton {
 	padding-right: 15px;
 	padding-bottom: 8px;
 	white-space: nowrap;
-	font: 22px/22px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	font: 1.25vw/1.2vw 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
 	text-shadow:        
         		-0.5px 0.5px 0px #ffffffff;
 				
@@ -54,24 +54,29 @@ st {
 zgi {
 	display: inline-block;
 	clear: both;
-	max-width: 12%;
-	vertical-align: top;
+	max-width: 4%;
+	vertical-align: middle;
 	padding-top: 0px;
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-bottom: 0px;
 	
 }	
+zgi:hover {
+	border-bottom: 10px dashed #ff880025;
+	margin-top: -10px;
+	
+}	
 zgt {
 	display: inline-block;
 	clear: both;
-	max-width: 74%;
-	vertical-align: top;
+	max-width: 88%;
+	vertical-align: middle;
 	padding-top: 0px;
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-bottom: 0px;
-	
+		
 }
 em {
     font-weight: 500;	
@@ -149,21 +154,21 @@ pre {
 
 }
 .page_header {
-    margin-top: 2px;
-	margin-bottom: -25px;
+    margin-top: 0px;
+	margin-bottom: 0px;
 	position: none;
     z-index: 10;
 	margin-left: auto;
 	margin-right: auto;
-	!background-image: url("../logo/fon1.png");
-	!background-size: contain;
-    !background-color: #ffffff00;
-	!border: 2px groove #00000055;
-	!border-radius: 8px;
-    !box-shadow: 0px 5px 5px #00000080;
-	padding-bottom: 12px;
-	padding-top: 0px;
-	font: 25px/25px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	background-image: url("../logo/fon1.png");
+	background-size: contain;
+    background-color: #ffffff00;
+	border: 2px groove #00000055;
+	border-radius: 8px;
+    box-shadow: 0px 5px 5px #00000080;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	font: 1.5vw/1.5vw 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
     color: #000000;
 	width: 92%;
     border-bottom: 0px solid #;
@@ -189,6 +194,7 @@ pre {
 .details {
     padding-left: 10px;
 	margin-right: 3px;
+	margin-bottom: -10px;
 	color: #604840;
 	font: 16px/22px 'Open Sans',"Tahoma","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
 	text-shadow:
