@@ -48,7 +48,7 @@ st {
 	padding-top: 16px;
 	padding-left: 22px;
 	padding-right: 22px;
-	padding-bottom: 32px;
+	padding-bottom: 22px;
 	
 }	
 zgi {
@@ -155,7 +155,7 @@ pre {
 }
 .page_header {
     margin-top: 0px;
-	margin-bottom: 27px;
+	margin-bottom: 29px;
 	position: none;
     z-index: 10;
 	margin-left: auto;
@@ -206,6 +206,41 @@ pre {
         2.00px 2.00px 0 #cccccc,
 		2.50px 2.50px 0 #dddddd,
         3.00px 3.00px 0 #eeeeee;
+
+}
+.details a {
+    padding-left: 10px;
+	margin-right: 3px;
+	margin-bottom: -10px;
+	color: #604840;
+	font: 16px/22px 'Open Sans',"Tahoma","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	text-shadow:
+        -1.50px -1.50px 0 #eeeeee,
+        0.00px 0.00px 0 #bbbbbb,
+		0.50px 0.50px 0 #888888,
+        1.00px 1.00px 0 #aaaaaa,
+        1.50px 1.50px 0 #bbbbbb,
+        2.00px 2.00px 0 #cccccc,
+		2.50px 2.50px 0 #dddddd,
+        3.00px 3.00px 0 #eeeeee;
+		
+}
+.details a:hover {
+    padding-left: 10px;
+	margin-right: 3px;
+	margin-bottom: -10px;
+	color: #006655;
+	font: 16px/22px 'Open Sans',"Tahoma","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	text-shadow:
+        -1.50px -1.50px 0 #eeeeee,
+        0.00px 0.00px 0 #bbbbbb,
+		0.50px 0.50px 0 #888888,
+        1.00px 1.00px 0 #aaaaaa,
+        1.50px 1.50px 0 #bbbbbb,
+        2.00px 2.00px 0 #cccccc,
+		2.50px 2.50px 0 #dddddd,
+        3.00px 3.00px 0 #eeeeee;	
+		
 }
 .page_header .content .text {
     padding: 24px 24px 22px 24px;
