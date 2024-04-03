@@ -74,7 +74,7 @@ zgt {
 	vertical-align: middle;
 	padding-top: 0px;
 	padding-left: 0px;
-	padding-right: 0px;
+	padding-right: 2vw;
 	padding-bottom: 0px;
 
 }
@@ -198,7 +198,7 @@ pre {
 	padding-top: 5px;
 	padding-left: 0px;
 	padding-right: 0px;
-	font: 16px/16px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	font: 18px/18px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
     color: #;
 	width: 98%;
     border-bottom: 0px solid #;
