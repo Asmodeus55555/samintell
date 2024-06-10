@@ -6,13 +6,15 @@ ______________________________________________________________________
 
 <div class="message service" id="message-1"><div class="body details">  
 	 
-00 Апреля 2024 </div></div> <img loading="lazy"  src="./logo/line.png" style="width: 100%; height: 100%"><div class="message default clearfix" id="0">
+01 Июня 2024 </div></div> <img loading="lazy"  src="./logo/line.png" style="width: 100%; height: 100%"><div class="message default clearfix" id="0">
 __________________________________________________________________
 Изображение и ЗАГОЛОВОК
 
-<st><a name="id1"><div align="center"><a href="photos/1.jpg"><img loading="lazy"  src="./photos/1.jpg" style="width: 32%; height: 32%"></a><br><br>
+<st><a name="id1"><div align="center">
 
-<b>       </b><br><br></div>
+<a href="photos/1.jpg"><img loading="lazy"  src="./photos/1.jpg" style="width: 32%; height: 32%"></a>
+
+<br><br><b>       </b><br><br></div>
 
 __________________________________________________________________
 ССЫЛКА
@@ -61,7 +63,6 @@ ___________________________________________________________________
 	 
 	 <iframe src="          " loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br>
 	 
-
 <b>     </b><br><br></div>
 ___________________________________________________________________
 Видео с воспроизведением и заголовок.
@@ -75,3 +76,14 @@ ____________________________________________________________________
 <st><a name="id1"><div align="center"><video loading="lazy"  controls=2 preload="metadata" loop style="width: 32%; height: 32%" poster="video_files/1.jpg" src="video_files/1.mp4"></video></a><br><br><br>
 
 <b>            </b><br><br></div>
+
+____________________________________________________________________
+Страницы
+
+<div align="center"><baton><a style=font-weight:normal href="./          "><font color="#333333">Следующая страница</font></a></baton></div>
+
+<br><baton><a style=font-weight:normal href="./      "><font color="#333333">Предыдущая страница</font></a></baton>
+
+
+
+
