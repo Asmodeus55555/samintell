@@ -110,6 +110,20 @@ em {
 	font: 18px/18px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
 	font-style: italic;
 	
+}
+fl {
+   	color: #604840;
+	font: 16px/22px 'Open Sans',"Tahoma","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	text-shadow:
+        -1.50px -1.50px 0 #eeeeee,
+        0.00px 0.00px 0 #bbbbbb,
+		0.50px 0.50px 0 #888888,
+        1.00px 1.00px 0 #aaaaaa,
+        1.50px 1.50px 0 #bbbbbb,
+        2.00px 2.00px 0 #cccccc,
+		2.50px 2.50px 0 #dddddd,
+        3.00px 3.00px 0 #eeeeee	
+	
 }	
 iframe { 
   width: 32%;
