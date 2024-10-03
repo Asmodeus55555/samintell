@@ -82,6 +82,23 @@ em {
     font-weight: 500;	
 	font: 20px/22px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
 	font-style: italic;
+	
+}
+blockquote {
+	font-weight: 500;	
+	font: 20px/22px 'Open Sans',"Georgia","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+	font-style: italic;
+	background-color: #00AAFF05;
+	text-shadow:
+        -1.50px -1.50px 0 #eeeeee50,
+        0.00px 0.00px 0 #bbbbbb50,
+		0.50px 0.50px 0 #88888850,
+        1.00px 1.00px 0 #aaaaaa50,
+        1.50px 1.50px 0 #bbbbbb50,
+        2.00px 2.00px 0 #cccccc50,
+		2.50px 2.50px 0 #dddddd50,
+        3.00px 3.00px 0 #eeeeee50;
+
 
 }
 fl {
@@ -109,8 +126,16 @@ code, kbd, pre, samp {
 code {
     padding: 2px 4px;
     font-size: 100%;
-    color: #c7254e;
-    background-color: #f9f2f4;
+    color: #555555;
+	text-shadow:
+        -1.50px -1.50px 0 #eeeeee88,
+        0.00px 0.00px 0 #bbbbbb88,
+		0.50px 0.50px 0 #88888888,
+        1.00px 1.00px 0 #aaaaaa88,
+        1.50px 1.50px 0 #bbbbbb88,
+        2.00px 2.00px 0 #cccccc88,
+		2.50px 2.50px 0 #dddddd88,
+        3.00px 3.00px 0 #eeeeee88;
     border-radius: 4px;
 }
 pre {
