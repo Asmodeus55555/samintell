@@ -6,7 +6,7 @@ ______________________________________________________________________
 
 <div class="message service" id="message-1"><div class="body details">  
 	 
-01 Июля 2024 </div></div> <img loading="lazy"  src="./logo/line.png" style="width: 100%; height: 100%"><div class="message default clearfix" id="0">
+01 Августа 2024 </div></div> <img loading="lazy"  src="./logo/line.png" style="width: 100%; height: 100%"><div class="message default clearfix" id="0">
 __________________________________________________________________
 Изображение и ЗАГОЛОВОК
 
@@ -31,7 +31,6 @@ __________________________________________________________________
 Разделитель
 
 
-
 <img loading="lazy"  src="./logo/line.png" style="width: 100%; height: 100%"><div class="message default clearfix" id="0">
 ___________________________________________________________________
 Файл
@@ -44,24 +43,7 @@ ___________________________________________________________________
 <div class="fill"></div><div class="status details">
 
 Фотография в высоком разрешении.</div></a></div>
-___________________________________________________________________
-Видео без воспроизведения и заголовок.
 
-       <st><a name="id1"><div align="center">
-
-        <a class="video_file_wrap" href="video_files/1.mp4">
-
-         <div class="video_play_bg">
-
-          <div class="video_play">
-
-          </div>
-
-         </div>
-
-         <img loading="lazy"  class="video_file" src="video_files/1.jpg" style="width: 32%; height: 32%"/> </a> <br>      
-
-<b>                      </b><br><br></div>
 ___________________________________________________________________
 Ютуб и заголовок.
 
@@ -77,13 +59,6 @@ ___________________________________________________________________
 <st><a name="id1"><div align="center"><video loading="lazy"  controls=2 preload="metadata" loop style="width: 32%; height: 32%" src="video_files/1.mp4"></video></a><br><br>
 
 <b>            </b><br><br></div>
-____________________________________________________________________
-Видео с воспроизведением и постером, и заголовок.
-
-<st><a name="id1"><div align="center"><video loading="lazy"  controls=2 preload="metadata" loop style="width: 32%; height: 32%" poster="video_files/1.jpg" src="video_files/1.mp4"></video></a><br><br><br>
-
-<b>            </b><br><br></div>
-
 ____________________________________________________________________
 Страницы
 
